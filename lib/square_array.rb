@@ -7,5 +7,4 @@ def square_array(array)
     count += 1
   }
   new_array
-  
 end
